@@ -1,8 +1,22 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmeraldSDK", "EmeraldSDK\EmeraldSDK.csproj", "{865613D1-C6DF-4D55-B7B6-D954163426C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmeraldLauncher", "EmeraldLauncher\EmeraldLauncher.csproj", "{2B666774-0609-430B-B95D-5B229EF002CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865613D1-C6DF-4D55-B7B6-D954163426C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865613D1-C6DF-4D55-B7B6-D954163426C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865613D1-C6DF-4D55-B7B6-D954163426C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865613D1-C6DF-4D55-B7B6-D954163426C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B666774-0609-430B-B95D-5B229EF002CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B666774-0609-430B-B95D-5B229EF002CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B666774-0609-430B-B95D-5B229EF002CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B666774-0609-430B-B95D-5B229EF002CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
