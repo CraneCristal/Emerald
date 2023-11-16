@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmeraldSDK", "EmeraldSDK\Em
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmeraldLauncher", "EmeraldLauncher\EmeraldLauncher.csproj", "{2B666774-0609-430B-B95D-5B229EF002CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmeraldTests", "EmeraldTests\EmeraldTests.csproj", "{DE65AEB5-F030-4056-8254-F430DF6A3469}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{2B666774-0609-430B-B95D-5B229EF002CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B666774-0609-430B-B95D-5B229EF002CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B666774-0609-430B-B95D-5B229EF002CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE65AEB5-F030-4056-8254-F430DF6A3469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE65AEB5-F030-4056-8254-F430DF6A3469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE65AEB5-F030-4056-8254-F430DF6A3469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE65AEB5-F030-4056-8254-F430DF6A3469}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
